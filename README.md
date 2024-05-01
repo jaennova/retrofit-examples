@@ -114,3 +114,11 @@ Claro, aquí tienes algunos proyectos con un nivel más de complejidad usando Re
 
 Cada proyecto se centrará en la implementación de Retrofit para realizar las peticiones a la API correspondiente, sin profundizar en la creación de una aplicación completa. El objetivo principal es brindar ejemplos claros y concisos de cómo utilizar Retrofit para diferentes casos de uso, desde los más básicos hasta los más avanzados.
 Si deseas explorar características adicionales, como almacenamiento en caché, manejo de errores de red, implementación de patrones de diseño, entre otros, puedes utilizar estos proyectos como punto de partida y expandirlos según tus necesidades.
+
+## Recursos
+
+Aquí hay una lista de recursos para entender mejor la implementación de Retrofit y Corrrutinas
+
+### Youtube
+
+- [Joss Programming](https://www.youtube.com/watch?v=5fyrlA-4msA)

@@ -19,7 +19,6 @@ fun MenuScreen(menuItems: List<MenuItem>, navController: NavController) {
     Surface {
         Column {
             TopAppBar(title = { Text("Menu") })
-
             LazyColumn {
                 items(menuItems) { menuItem ->
                     CardMenuItem(menuItem, navController)

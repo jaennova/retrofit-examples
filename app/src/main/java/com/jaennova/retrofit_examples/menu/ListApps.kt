@@ -9,5 +9,11 @@ val listApps = listOf(
         description = "JsonPlaceholder API",
         icon = R.drawable.ic_launcher_foreground,
         route = AppScreens.JsonPlaceholder.route,
-    )
+    ),
+    MenuItem(
+        appName = "CatApi",
+        description = "Cat API",
+        icon = R.drawable.ic_launcher_foreground,
+        route = AppScreens.CatApi.route,
+    ),
 )
